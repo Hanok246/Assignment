@@ -1,0 +1,17 @@
+User: Sabina Lungeli
+
+Location : Kaski, Nepal
+Age: 19
+Gender: Female
+
+Bio: Sabina is an enthusiastic, quick learning and creative student trying to learn the ways of
+information technology to cope up with the advanced digitalized world.
+
+Purpose of visit: Sabina is trying to visit the website inorder to learn the various programming 
+languages so she can create and be able to play around the codings to make new things. According to the need
+she wants to develop different softwares and user friendly tools.
+
+Challenges: Sabina is currently working on optimizing the performance of a critical component in her company's software. The challenge involves finding efficient algorithms and making the code more scalable to meet the growing user base. 
+As the time ticks, company needs to provide update to the new versions of the application.
+
+Socaial Media: Active on (GitHub, LinkedIN, WhatsApp, Facebook, Gmail and Instagram) 
